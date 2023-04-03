@@ -32,6 +32,8 @@ public class Hello {
 		
 		
 		System.out.println(k);
+		System.out.println(k);
+		System.out.println(k);
 		
 	}
 
